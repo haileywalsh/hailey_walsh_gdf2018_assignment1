@@ -1,0 +1,8 @@
+Unity3D:
+  application failed to download, however after restarting my laptop i was able to sucessfully download 
+Gimp:
+  unable to open due to computer settings, however settings were changed and i was able to sucessfully download
+Audacity:
+  sucessfully downloaded
+SourceTree:
+  sucessfully downloaded
